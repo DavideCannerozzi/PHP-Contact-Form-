@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+input,
+textarea{
+    border-width: 0 0 1px;
+    border-color:grey;
+    outline:0
+}
+
+textarea{
+    overflow: hidden;
+}
+
+.postman-image{
+    width: 240px
+}
+
+.container{
+    width:80%;
+    margin:0 auto;
+}
+
+
+button[type='submit']{
+    border-radius:65px;
+    padding:5px 25px
+}
